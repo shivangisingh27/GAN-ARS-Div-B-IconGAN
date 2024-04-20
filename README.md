@@ -1,1 +1,1 @@
-: Generative Adversarial Network for Logo Generation 
+Generative Adversarial Network for Logo Generation 
